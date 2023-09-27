@@ -1,0 +1,49 @@
+h1{
+    color: pink;
+}
+
+h2{
+    color: blue;
+}
+
+h3{color: darkviolet;
+}
+
+h4{color: red;
+}
+
+h5{color: yellow;
+}
+h6{color: green;
+}
+ul{background-color: gray;
+}
+ol{background-color: orange;
+}
+th{
+   color: gold; 
+}
+td {
+    color: darkblue;
+    background-color: cyan;
+}
+body{
+    background-color: black;
+}
+input{
+    width: 200px; 
+}
+label{
+    color: white;
+}
+
+table{
+    position: relative;
+    left: 450px;
+}
+.{
+    background-color:rebeccapurple ;
+    position: relative;
+}
+    left: 450px;
+
